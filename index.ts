@@ -1,0 +1,1 @@
+console.log("All Friends are Happy")
